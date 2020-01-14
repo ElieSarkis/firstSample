@@ -1,0 +1,31 @@
+body{
+	background-color: black;
+	color: #fff;
+	font-size: 18px;
+}
+
+.col-form-label {
+	font-weight: bold;
+}
+
+
+.error{
+color:red !important;
+}
+.error-text{
+border:1px solid red !important;
+}
+
+.getStarted{
+	margin-top: 5rem!important;
+}
+
+
+
+.copyRight {
+	color: rgba(0,0,0,.9);
+}
+
+.footerName{
+	color: #fff;
+}
